@@ -1,4 +1,4 @@
-# Actividades de Java: Estructura Secuencial
+# Actividades con Java: Estructura Secuencial
 
 Este repositorio contiene ejercicios resueltos como parte de mi aprendizaje en el lenguaje Java, específicamente sobre **estructuras secuenciales**.
 
@@ -10,10 +10,10 @@ Son aquellas instrucciones que se ejecutan una tras otra, en orden, sin condicio
 
 A continuación algunos de los ejercicios incluidos:
 
-- `TEST.java` → Solicita dos números y muestra la suma.
-- `TEST.java` → Calcula el área de un rectángulo.
-- `TEST.java` → Calcula el promedio de tres notas.
-- `TEST.java` → Convierte grados Celsius a Fahrenheit.
+- `TEST02.java` → Calcula el área de un rectángulo.
+- `TEST03.java` → Calcula la hipotenusa de un triangulo.
+- `TEST05.java` → Convierte grados Celsius a Fahrenheit.
+-  `TEST06.java` → Calcula el promedio de tres notas.
 
 ## 🛠️ Herramientas
 
@@ -30,4 +30,3 @@ Estos ejercicios me ayudan a:
 - Leer datos del usuario con `Scanner`
 - Aplicar operaciones básicas
 - Escribir programas simples pero funcionales
-
