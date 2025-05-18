@@ -19,7 +19,7 @@ A continuación algunos de los ejercicios incluidos:
 ## 🛠️ Herramientas
 
 - Lenguaje: Java
-- Editor recomendado: VS Code o IntelliJ IDEA
+- Editor utilizado: IntelliJ IDEA
 - Compilación: `javac`
 - Ejecución: `java`
 
