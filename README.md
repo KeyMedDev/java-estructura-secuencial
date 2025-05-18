@@ -10,11 +10,10 @@ Son aquellas instrucciones que se ejecutan una tras otra, en orden, sin condicio
 
 A continuación algunos de los ejercicios incluidos:
 
-- `HolaMundo.java` → Primer programa básico.
-- `SumaDosNumeros.java` → Solicita dos números y muestra la suma.
-- `AreaRectangulo.java` → Calcula el área de un rectángulo.
-- `PromedioNotas.java` → Calcula el promedio de tres notas.
-- `ConversorTemperatura.java` → Convierte grados Celsius a Fahrenheit.
+- `TEST.java` → Solicita dos números y muestra la suma.
+- `TEST.java` → Calcula el área de un rectángulo.
+- `TEST.java` → Calcula el promedio de tres notas.
+- `TEST.java` → Convierte grados Celsius a Fahrenheit.
 
 ## 🛠️ Herramientas
 
@@ -31,6 +30,4 @@ Estos ejercicios me ayudan a:
 - Leer datos del usuario con `Scanner`
 - Aplicar operaciones básicas
 - Escribir programas simples pero funcionales
-
-## 📁 Estructura del proyecto
 
